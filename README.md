@@ -1,8 +1,9 @@
 # Main
 Trash
 224403
-Шумский
+Шумский trash
 <<<<<<< HEAD
 commit local
-
+Odinets ne trash
 Commit WEb
+AAAAAAAA
